@@ -1,0 +1,5 @@
+int64 DOUBLE_SUPPORT=0
+int64 RIGHT_LEG_SINGLE_SUPPORT=1
+int64 LEFT_LEG_SINGLE_SUPPORT=2
+
+int64 contact_configuration

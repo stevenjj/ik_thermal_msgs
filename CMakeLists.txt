@@ -14,6 +14,7 @@ find_package(catkin REQUIRED COMPONENTS
 add_message_files(
   FILES
   TemperatureVector.msg
+  ContactConfig.msg
 )
 
 ## Generate services in the 'srv' folder
